@@ -1,0 +1,5 @@
+The Scala Migrations source code is hosted in a git repository hosted by a [Gerrit](http://code.google.com/p/gerrit/) deployment at https://gerrit.orcaware.com/.  Gerrit is an open-source Review-Before-Commit system from Google.  Feel free to clone the repository from ssh://gerrit.orcaware.com:29418/scala-migrations.git and submit reviews requests.
+
+To submit a review request, it is worth spending a few minutes reading the [Gerrit User Guide](http://gerrit-documentation.googlecode.com/svn/Documentation/2.5/index.html#_user_guide).  It will be easier to push commits if you use [git-review](https://github.com/openstack-ci/git-review) or [gerrit-review](http://code.google.com/p/scala-migrations/downloads/detail?name=gerrit-review-1.1).
+
+For a review to be accepted, the author will need to have submitted a [Contributor License Agreement](http://opensource.imageworks.com/cla/) to Sony Pictures Imageworks.
